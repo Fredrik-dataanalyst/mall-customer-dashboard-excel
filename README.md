@@ -20,6 +20,8 @@ By analyzing these approaches, the dashboard helps identify which customer segme
 
 The dashboard contains 2 slicers and 8 charts. 
 
+![Displaying_dashboard](https://github.com/user-attachments/assets/37a92147-58cd-43ab-835d-193f8b865da0)
+
 Below the title of the Dashboard 'Mall Customers Information' one can find the slicers, these are connected in various ways to the different charts. 
 
 One of these slicers allows the user to select which age groups should be represented, and the other which sex. However, these slicers are only connected to certain charts, as will be shown. 
