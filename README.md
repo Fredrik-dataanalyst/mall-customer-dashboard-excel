@@ -52,13 +52,13 @@ The final two charts include a vertical bar chart displaying spending scores by 
 
 Some initial findings are:
 
-*The dashboard indicates that people aged 28–37 visit the mall most frequently, with females being slightly more represented.
+* The dashboard indicates that people aged 28–37 visit the mall most frequently, with females being slightly more represented.
 
-*There are more females than males in the sample, though the difference is minor.
+* There are more females than males in the sample, though the difference is minor.
 
-*Average annual income is highest among males aged 28–37. For females, it peaks in the 38–47 age group.
+* Average annual income is highest among males aged 28–37. For females, it peaks in the 38–47 age group.
 
-*The average spending score is highest for both males and females in the 28–37 age group.
+* The average spending score is highest for both males and females in the 28–37 age group.
 
 This analysis suggests that individuals aged 28–37, particularly females, are the most frequent visitors to the mall. This is likely because people in this age range may have settled down and have children to provide for. The average income peaks for males at this age but for females later, possibly due to child-rearing responsibilities. Both male and female spending scores are highest for the 28–37 age group, indicating they likely have higher expenses at this stage of life.
 
