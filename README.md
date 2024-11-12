@@ -66,5 +66,5 @@ This analysis suggests that individuals aged 28–37, particularly females, are 
 
 The customer segment that visits the mall most frequently is the 28–37 age group, especially females. Males in this category spend the most, and both males and females in this group have the highest spending scores. Therefore, the mall should target this demographic to improve profitability.
 
-*Dataset Source: Mall Customer Segmentation Data on Kaggle
+* Dataset Source: Mall Customer Segmentation Data on Kaggle
 (Note: A Kaggle account may be required to access and download the dataset.)
