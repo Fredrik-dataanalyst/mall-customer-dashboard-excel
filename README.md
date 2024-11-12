@@ -1,10 +1,20 @@
+
+# Mall Customer Dashboard
+
+## Project Overview
+The aim of this project is to create an interactive dashboard that segments and analyzes mall customers based on demographic and spending data. This dashboard helps visualize customer behaviour to provide insights that can inform targeted marketing strategies.
+
 ## Dataset
 
 The data used in this project is the **Mall Customer Segmentation Data** available on Kaggle. This dataset includes customer demographic information, annual income, and spending scores (A metric of the customers' spending power), which are used to analyze customer segments. The demographic information is the customers' age and sex. 
 
 ## Motivation
 
-One could ask what type of customer the Mall's marketing team should target with their campaigns to obtain more profit. The demographic of the mall's customers is important in itself for this matter, whether the customers are males or females, or the age of the customers. For the larger group of customers visiting the mall, the mall should emphasise targetting, making this group spend more. Another idea is to target customers with higher annual income and higher spending scores, making more customers in this category visit the mall and buy products. 
+Understanding the demographics and spending patterns of mall customers is crucial for optimizing marketing efforts. This project explores two key strategies for increasing profitability: 
+1. Targeting larger customer demographics to increase their spending.
+2. Attracting high-income customers with higher spending scores to boost mall visits and purchases.
+
+By analyzing these approaches, the dashboard helps identify which customer segments hold the most potential for targeted marketing, allowing the mall to develop data-driven campaigns for maximum impact.
 
 ## The Dashboard's functionality
 
