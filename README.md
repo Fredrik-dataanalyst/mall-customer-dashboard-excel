@@ -7,7 +7,7 @@ This project aims to showcase an interactive dashboard designed to segment and a
 
 ## Dataset
 
-The data used in this project is the ** Mall Customer Segmentation Data available on Kaggle. This dataset includes customer demographic information, annual income, and spending scores (a metric of the customers' spending power), which are used to analyze customer segments. The demographic information includes customers' age and sex.
+The data used in this project is the **Mall Customer Segmentation Data** available on Kaggle. This dataset includes customer demographic information, annual income, and spending scores (a metric of the customers' spending power), which are used to analyze customer segments. The demographic information includes customers' age and sex.
 
 ## Motivation
 
