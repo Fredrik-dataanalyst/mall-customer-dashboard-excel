@@ -1,9 +1,9 @@
 
-# Mall Customer Dashboard
+# Descibing Mall Customer Dashboard and analysis of Mall Customer Data
 
 ## Project Overview
 
-The aim of this project is to create an interactive dashboard that segments and analyzes mall customers based on demographic and spending data. This dashboard helps visualise customer behaviour to provide insights that can inform targeted marketing strategies. In this text, a description of the dashboard's functionality is described and some insights into the data provided.
+This project aims to showcase an interactive dashboard designed to segment and analyze mall customers based on demographic and spending data. The dashboard provides visual insights into customer behavior, offering valuable information to inform targeted marketing strategies. This README will outline the dashboard's functionality and present key insights drawn from the data.
 
 ## Dataset
 
