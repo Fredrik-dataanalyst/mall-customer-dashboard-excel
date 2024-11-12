@@ -22,17 +22,30 @@ The dashboard contains 2 slicers and 8 charts.
 
 ![Displaying_dashboard](https://github.com/user-attachments/assets/37a92147-58cd-43ab-835d-193f8b865da0)
 
-Below the title of the Dashboard 'Mall Customers Information' one can find the slicers, these are connected in various ways to the different charts. 
+Below the title of the Dashboard 'Mall Customers Information' one can find the slicers, indicated by red arrows. These are connected in various ways to the different charts. If one presses its buttons the charts connected to it, update.
+
+![Highlighting_slicers](https://github.com/user-attachments/assets/556bb666-37f7-48e0-a719-f001484358f6)
+
 
 One of these slicers allows the user to select which age groups should be represented, and the other which sex. However, these slicers are only connected to certain charts, as will be shown. 
 
 The first four charts, below the slicers, are connected to both of them. Two of these are pie charts, one displaying the proportions of customers between the age categories and the other one displaying the proportion of customers in the sexes. The single-bar bar charts next to the pie charts display the average spending score and average annual salary.
 
+![Displaying_four_first_charts](https://github.com/user-attachments/assets/a28dd744-02ba-4500-9637-9e35bcb9a4ed)
+
 Note that all of these charts are updated with the slicers. The slicers determine which customers are represented in the charts.
+
+![Pushing_68-77 ](https://github.com/user-attachments/assets/64ade2c9-1ee9-4383-8bd8-76c79a2846e1)
+
+![Pusing_Female](https://github.com/user-attachments/assets/8e99f81c-eb11-4289-ae19-569d4eace6fb)
 
 The next two charts are a line chart of the number of visitors over the age categories and a single-bar bar chart displaying the number of customers. The line chart is only determined by one of the slicers (the one of sex). So pressing any button on the age-slicer does not change this chart. All age categories are still displayed. The chart, displaying the number of customers, is updated by both slicers. 
 
+![5th_and_6th_chart_change_when_pressing_buttons_on_age](https://github.com/user-attachments/assets/a482051f-7ad3-403d-a286-4fbf5a14ca5e)
+
 The last two charts are a vertical bar chart, displaying the spending score between males and females over the age groups, and a horizontal bar chart displaying the average annual salary among age groups between the two sexes. The first of these is only updated by the slicer of the sex category and the other one by both slicers.
+
+![Updates_of_7th_and_8th_with_buttons](https://github.com/user-attachments/assets/1bd666d7-1b45-4980-973f-5a5363a0ea49)
 
 ## Analysis
 
